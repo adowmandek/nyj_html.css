@@ -1,0 +1,30 @@
+body{
+    background-color: peru;
+
+
+
+
+}
+
+.row {
+    display: flex;
+  }
+
+
+
+
+
+  .column {
+    flex: 60%;
+
+
+
+  }
+.column2{
+    padding-left: 30%;
+
+}
+
+
+
+

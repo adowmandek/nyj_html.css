@@ -1,0 +1,36 @@
+ .h1 {
+color: blueviolet;
+}
+
+
+
+
+body{
+    background-color:burlywood
+    }
+
+
+    .row {
+        display: flex;
+      }
+    
+
+
+
+
+      .column {
+        flex: 60%;
+      }
+    .column2{
+        padding-left: 30%;
+
+    }
+
+  
+    p {
+      color: black;
+      text-indent: 60px;
+      text-transform: unset;
+    }
+
+
